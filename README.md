@@ -29,16 +29,16 @@ This is a simple yet functional Android app that allows users to search for food
 ---
 
 ## 🛠️ Project Structure (Simplified)
-   Activities
-   Adapters
-   Models
-   Interfaces
-   Network
-   res
-   drawable
-   layout
-   values
-  AndroidManifest.xml
+   Activities\
+   Adapters\
+   Models\
+   Interfaces\
+   Network\
+   res\
+   drawable\
+   layout\
+   values\
+  AndroidManifest.xml\
   build.gradle
 
 
